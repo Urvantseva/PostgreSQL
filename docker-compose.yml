@@ -8,5 +8,5 @@ services:
       - ./data:/var/lib/postgres
     environment:
       POSTGRES_DB: db
-      POSTGRES_USER: user
+      POSTGRES_USER: login
       POSTGRES_PASSWORD: 9mREsvXDs9Gk89Ef
